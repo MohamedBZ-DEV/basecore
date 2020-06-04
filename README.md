@@ -1,5 +1,4 @@
 # basecore
-basecore
 
 Base Full Core FiveM 
 
