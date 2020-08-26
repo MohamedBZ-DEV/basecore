@@ -2,7 +2,7 @@
 
 Base Full Core FiveM + Key 128 Slots dans le server.cfg ! 
 
-Mes Discord Aide : https://discord.gg/Zby2dAC : https://discord.gg/UfZPdRC 
+Mes Discord Aide : https://discord.gg/BmewCme
 
 HUD DE GTALIFE 
 TOUT EN CORE ET RAGEUI
